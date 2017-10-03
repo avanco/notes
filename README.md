@@ -1,7 +1,7 @@
 # notes
 Take quick notes in a KISS way
 
-Just add this function in your shell config ($HOME/.bashrc if bash)
+Just add this function in your shell config ($HOME/.bashrc if bash). After that type `reset` for terminal initialization.
 
 ```
 notes() {
